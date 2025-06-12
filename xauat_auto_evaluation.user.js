@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         XAUAT 自动评教脚本
 // @namespace    http://tampermonkey.net/
-// @version      1.4.1
+// @version      1.4.2
 // @description  西安建筑科技大学自动评教脚本
 // @author       MrSuM and rain
 // @match        https://swjw.xauat.edu.cn/evaluation-student-frontend/*
@@ -13,7 +13,7 @@
 (function () {
     'use strict';
 
-    console.log('xauat自动评教脚本-1.3');
+    console.log('xauat自动评教脚本-1.4.2');
 
     // 元素配置
     const appSelector = '#app';
