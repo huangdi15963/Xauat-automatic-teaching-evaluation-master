@@ -6,8 +6,8 @@
 // @author       MrSuM and rain
 // @match        https://swjw.xauat.edu.cn/evaluation-student-frontend/*
 // @grant        none
-// @updateURL    https://gitee.com/XAUATiOSClub/Xauat-automatic-teaching-evaluation/raw/master/xauat_auto_evaluation.user.js?t=20240613
-// @downloadURL  https://gitee.com/XAUATiOSClub/Xauat-automatic-teaching-evaluation/raw/master/xauat_auto_evaluation.user.js?t=20240613
+// @updateURL    https://github.com/huangdi15963/Xauat-automatic-teaching-evaluation-master/blob/master/xauat_auto_evaluation.user.js
+// @downloadURL  https://github.com/huangdi15963/Xauat-automatic-teaching-evaluation-master/blob/master/xauat_auto_evaluation.user.js
 // @encoding     utf-8
 // ==/UserScript==
 (function () {
